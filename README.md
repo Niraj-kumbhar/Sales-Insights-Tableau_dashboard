@@ -5,6 +5,10 @@
 ## Screenshot:
 ![Dashboard_Screenshot](https://user-images.githubusercontent.com/89059809/181613201-8d03a955-2c7c-4b16-a15a-9ec06661bcd3.png)
 
+
+### Problem Statement:
+Client wants a dashboard to represent huge data into graphical components.
+
 ## Analysis
 Data is present in MySQL database. [Database File](https://github.com/Niraj-kumbhar/Sales-Insights-Tableau_dashboard/blob/main/db_dump.sql)
 <br>
@@ -21,9 +25,6 @@ Data is present in MySQL database. [Database File](https://github.com/Niraj-kumb
   ```SELECT  * FROM  sales.markets m ;```<br><br>
   <img src="https://user-images.githubusercontent.com/89059809/181697082-ae340a29-4b58-4a5b-ae2d-1c6438e1cb2b.png">
 
-
-### Problem Statement:
-Client wants a dashboard to represent huge data into graphical components.
 
 ## Preprocessing
 We haven't change any thing in database side. 
