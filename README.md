@@ -21,6 +21,10 @@ Data is present in MySQL database. [Database File](https://github.com/Niraj-kumb
   ```SELECT  * FROM  sales.markets m ;```<br><br>
   <img src="https://user-images.githubusercontent.com/89059809/181697082-ae340a29-4b58-4a5b-ae2d-1c6438e1cb2b.png">
 
+
+### Problem Statement:
+Client wants a dashboard to represent huge data into graphical components.
+
 ## Preprocessing
 We haven't change any thing in database side. 
 * I used Tableau's data filters to exclude negative or zero sales values. (sales_amount>1)
